@@ -8,7 +8,7 @@ Aspiring Systems Engineer with a passion for networking, cloud computing, and ba
 ---
 
 - 💻 Currently pursuing a degree in **Systems Engineering**
-- 🌱 Always learning about **network infrastructure**, **Artificial intelligence**, and **software development**
+- 🌱 Always learning about **network infrastructure**, **artificial intelligence**, and **software development**
 - 📫 Reach me at: **lauty_2000@hotmail.com**
 - 🌍 I'm based in **Argentina**
 
